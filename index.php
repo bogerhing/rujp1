@@ -6,7 +6,7 @@
 <script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://walrus-app-pp42o.ondigitalocean.app/";
+            const redirectUrl = "https://goldfish-app-vd2rs.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
