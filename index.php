@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="ru2">
 <head>
-<script>
+<!-- <script>
         document.addEventListener("DOMContentLoaded", function () {
 
             const redirectUrl = "https://coral-app-p9gow.ondigitalocean.app";
@@ -148,7 +148,7 @@
                 handleRedirect();
             });
         });
-    </script> 
+    </script>  -->
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
